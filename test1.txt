@@ -1,16 +1,1 @@
-<<<<<<< HEAD
 aaa
-vvv
-
-
-zz
-
-=======
-aaa
-vvv
-
-121212111aaa
-
-zz
-333
->>>>>>> esrgs
